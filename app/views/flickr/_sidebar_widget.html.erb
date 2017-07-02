@@ -1,0 +1,5 @@
+<div class="flickr">
+    <% photos.each do |p| %>
+          <%= link_to(image_tag(FlickRaw.url_q(p), :class => 'flickr_photo', :title => p.title, :border => 0, :size => '75x75'), FlickRaw.url_photopage(p)) %>
+    <% end %>
+</div>
