@@ -1,24 +1,19 @@
-# README
+# Flickr Getter (Flickr API)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A simple photo widget that allows you to display photos from a user's Flickr feed
 
-Things you may want to cover:
+Link to website: https://flickrapi-hwchan91.herokuapp.com/
 
-* Ruby version
 
-* System dependencies
+## Built With
 
-* Configuration
+* Ruby on Rails
 
-* Database creation
 
-* Database initialization
+## Author
 
-* How to run the test suite
+* **Dion, Chan Hin Won** -  [hwchan91](https://github.com/hwchan91)
 
-* Services (job queues, cache servers, search engines, etc.)
+## Acknowledgements
 
-* Deployment instructions
-
-* ...
+* This project is part of the Odin Project Curriculum: https://www.theodinproject.com/courses/ruby-on-rails/lessons/apis 
